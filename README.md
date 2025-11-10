@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**intosmokee/intosmokee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💀 Founder Of 404 /
 
-Here are some ideas to get you started:
+<img src="https://cdn.discordapp.com/icons/1435026968209784934/a_f6f0d8b9637e9ccf0e7a363be399252c.gif?size=1024" width="200" height="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,css,cpp,js,react,php,html,rust&theme=dark" />
+
+---
+
+### 🕵️ Pentest & Enthusiast 🔥
+
+</div>
