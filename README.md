@@ -2,7 +2,7 @@
 
 # 💀 Founder Of 404 /
 
-<img src="https://cdn.discordapp.com/icons/1435026968209784934/a_f6f0d8b9637e9ccf0e7a363be399252c.gif?size=1024" width="200" height="200"/>
+<img src="https://cdn.discordapp.com/emojis/1437377081855180811.gif?v=1" width="200" height="200" />
 
 ---
 
