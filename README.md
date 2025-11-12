@@ -6,8 +6,6 @@
 
 ---
 
-### 🖥️ Tech Stack
-
 <img src="https://skillicons.dev/icons?i=python,css,cpp,js,react,php,html,rust&theme=dark" />
 
 ---
